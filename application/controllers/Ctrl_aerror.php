@@ -10,7 +10,6 @@ class Ctrl_aerror extends Admin_Controller {
 
 	public function index(){
 		$this->load->view('admin/error');
-		exit();
     }
 
 }
