@@ -6,7 +6,6 @@ class Ctrl_error extends Core_Controller {
 	public function index(){
         $data['latevents'] = $this->Process->getLatestByType('events');
         $this->load->view('error', $data);
-        exit();
     }
 
 }
