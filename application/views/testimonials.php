@@ -136,7 +136,7 @@ position: absolute;
         
       </div>
       <div class="details">
-        <h2> Boman Irani <br> <span>Actor</span><br> <span><button onclick="window.location.href = 'https://shahandanchor.com/research/dist/images/testimonials/testi1.jpg';">Click Here</button></span></h2>
+        <h2> Boman Irani <br> <span>Actor</span><br> <span><button onclick="testi1.jpg">Click Here</button></span></h2>
       </div>
     </div>
   </div>
