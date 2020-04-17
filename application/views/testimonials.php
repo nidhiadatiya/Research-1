@@ -108,7 +108,7 @@ position: absolute;
 
     <?php $this->load->view('header'); ?>
 
-	<section1>
+    <section1>
     <div class="testimonial">
   <div class="card">
     <div class="layer"></div>
@@ -118,7 +118,7 @@ position: absolute;
         <img  width="100px" height="100px" src="2.jpg" alt="">
       </div>
       <div class="details">
-        <h2> Dr. Narayan Iyer <br> <span>CEO (IDF)</span><br> <span><button onclick="window.location.href = 'https://shahandanchor.com/research/dist/images/testimonials/testi2.jpg';">Click Here</button></span></h2>
+        <h2> Dr. Narayan Iyer <br> <span>CEO (IDF)</span><br> <span><button onclick="window.location.href = 'file:///C:/Users/Parth%20Aadatiya/Desktop/Testimonial/Narayan%20Iyer.html';">Click Here</button></span></h2>
       </div>
     </div>
   </div>
@@ -136,7 +136,8 @@ position: absolute;
         
       </div>
       <div class="details">
-        <h2> Boman Irani <br> <span>Actor</span><br> <span><button onclick="window.location.href = 'https://shahandanchor.com/research/dist/images/testimonials/testi1.jpg';">ClickMe</button></span></h2>
+        <h2> Boman Irani <br> <span>Actor</span><br><span><button onclick="window.location.href = 'file:///C:/Users/Parth%20Aadatiya/Desktop/Testimonial/BI.html';">Click Here</button></span></h2>
+		
       </div>
     </div>
   </div>
@@ -154,7 +155,7 @@ position: absolute;
         
       </div>
       <div class="details">
-         <h2> D. Sivanandhan <br> <span>I.P.S.(Retd)</span><br> <span><button onclick="window.location.href = 'https://shahandanchor.com/research/dist/images/testimonials/testi3.jpg';">Click Here</button></span></h2>
+         <h2> D. Sivanandhan <br> <span>I.P.S.(Retd)</span><br> <span><button onclick="window.location.href = 'file:///C:/Users/Parth%20Aadatiya/Desktop/Testimonial/DSivanandhan.html';">Click Here</button></span></h2>
       </div>
     </div>
   </div>
@@ -168,10 +169,10 @@ position: absolute;
     <div class="content">
       <p>We are impressed with the work done by the student and mentor who prodded them to show off their technical skills and leadership qualities. Foreseeing continuing with this alliance together, to fabricate a 	Strong Nation.</p>
       <div class="image">
-        <img  width="100px" height="100px" src="2.jpg" alt="">
+        <img  width="100px" height="100px" src="4.jpg" alt="">
       </div>
       <div class="details">
-         <h2> V.V.Pai <br> <span>Director (BLP)</span><br> <span><button onclick="window.location.href = 'https://shahandanchor.com/research/dist/images/testimonials/testi4.jpg';">Click Here</button></span></h2>
+         <h2> V.V.Pai <br> <span>Director (BLP)</span><br> <span><button onclick="window.location.href = 'file:///C:/Users/Parth%20Aadatiya/Desktop/Testimonial/VVPai.html';">Click Here</button></span></h2>
       </div>
     </div>
   </div>
