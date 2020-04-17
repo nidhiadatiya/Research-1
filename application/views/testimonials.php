@@ -155,7 +155,7 @@ position: absolute;
         
       </div>
       <div class="details">
-         <h2> D. Sivanandhan <br> <span>I.P.S.(Retd)</span><br> <span><button onclick="window.location.href = 'file:///C:/Users/Parth%20Aadatiya/Desktop/Testimonial/DSivanandhan.html';">Click Here</button></span></h2>
+         <h2> D. Sivanandhan <br> <span>I.P.S.</span><br> <span><button onclick="window.location.href = 'file:///C:/Users/Parth%20Aadatiya/Desktop/Testimonial/DSivanandhan.html';">Click Here</button></span></h2>
       </div>
     </div>
   </div>
